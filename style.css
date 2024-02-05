@@ -1,0 +1,195 @@
+ body
+ {
+	 background-color:#ebebeb;
+	
+ }
+ 
+ .one 
+{  
+	background-color:white;
+	height:80px;
+	text-align:center;
+	border:2px solid black
+}
+
+ .one:hover
+{
+	border:4px solid black;	
+
+}
+
+a 
+{
+	margin-right:50px;
+	text-decoration:none;
+}
+
+a:hover
+    {
+		color:deeppink;
+	}
+
+.aa a:hover
+{
+	 color:red;
+	
+}
+
+   input
+{
+		height:50px;
+		width:200px;
+		border:2px solid orange;
+		background-color:white;
+}
+
+.AB
+{
+		height:40px;
+		width:100px;
+		background-color:red;
+}
+
+.AB:hover
+{
+		
+		background-color:#8bc34a;
+}
+
+.two img
+{
+	height:100%;
+	width:100%;
+	
+	
+	
+	
+}
+
+.three
+{
+		min-height:600px;
+		max-height:100%;
+		width:20%;
+		border:4px solid #9f0a3d;
+		background-color:white;
+		border-radius:20px;
+		display:inline-block;
+		margin:40px;
+		box-shadow:5px 5px ;
+}
+
+.three:hover
+{
+		
+		box-shadow: 15px 15px  15px #158379;
+		transform: scale(1.1);
+		transition:transform 3s;			
+	
+}
+
+.image img
+{
+	width:100%;
+	border-radius:20px;
+}
+
+.a h1
+{
+	color:green;
+	text-align:center;
+}
+
+.pa h3
+{
+	color:red;
+	text-align:justify;
+	padding:15px;
+}
+
+.b h1
+{
+	color:deeppink;
+	text-align:center;
+}
+
+.pb h3
+{
+	color:black;
+	text-align:justify;
+	padding:15px;
+}
+
+.c h1
+{
+	color:#9c27b070;
+	text-align:center;
+}
+
+.pc h3
+{
+	color:green;
+	text-align:justify;
+	padding:15px;
+}
+
+.d h1
+{
+	color:orange;
+	text-align:center;
+}
+
+.pd h3
+{
+	color:blue;
+	text-align:justify;
+	padding:15px;
+}
+
+.images img
+{
+		height:400px;
+		width:400px;
+		border:4px solid black;
+		box-shadow:5px 5px  20px;
+		margin-right:20px;
+		margin-left:20px;
+	border-top-right-radius:70px;
+	border-top-left-radius:70px;
+	border-bottom-right-radius:70px;
+	
+}
+
+
+.images img:hover
+{
+	transform: rotate(360deg);
+		transition:transform 3s;				
+	
+}
+h1:hover
+{
+	transform: skew(-360deg);
+		transition:transform 7s;		
+}
+
+	.AAA
+				{
+						background-image:url('https://i.pinimg.com/originals/60/72/c4/6072c4a5049bc89fb151863439c90e97.png');
+						background-size:cover;
+						height:1000px;
+						 padding-right:50px;
+						 padding-left:50px;
+						 padding-bottom:50px;
+						 border: 10px solid black;
+						
+						
+				}
+				textarea,input
+				{
+					background-color:rgb(220 220 225);
+					border: 1px solid white;
+					color:black;
+					
+					
+				}
